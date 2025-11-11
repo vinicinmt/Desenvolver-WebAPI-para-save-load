@@ -1,0 +1,10 @@
+[System.Serializable]
+public class Player
+{
+    public string id;
+    public int Vida;
+    public int QuantidadeItens;
+    public float PosicaoX;
+    public float PosicaoY;
+    public float PosicaoZ;
+}
